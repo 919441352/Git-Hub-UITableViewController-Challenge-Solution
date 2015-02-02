@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MyTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Ramakrishna Makkena on 2/2/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MyTableViewController : UITableViewController
 
 @end
-
